@@ -6,7 +6,7 @@ Gra zrêcznoœciowa typu Arkanoid napisana w C++ z u¿yciem biblioteki SFML.
 ## Funkcjonalnoœci
 - Animowane obiekty i fizyka kolizji.
 - Zapis i odczyt stanu gry (klawisz F5 / Menu).
-- System punktacji i High Scores.
+- System punktacji i tabeli wyników.
 - Menu g³ówne.
 
 ## Autor
