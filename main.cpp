@@ -71,7 +71,7 @@ enum class AppState { Menu, Playing, Scores, Exiting };
 
 int main()
 {
-	sf::RenderWindow window(sf::VideoMode({ 800, 600 }), "Arkanoid - Projekt");
+	sf::RenderWindow window(sf::VideoMode({ 800, 600 }), "Arkanoid - Projekt PG");
 	window.setFramerateLimit(60);
 
 	AppState currentState = AppState::Menu;
